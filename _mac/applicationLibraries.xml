@@ -7292,6 +7292,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/serveza-cli-1.0.14/templates" />
       </SOURCES>
     </library>
+    <library name="service_gateway_buddy (v3.2.0, rbenv: 2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/service_gateway_buddy-3.2.0/.nos" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/service_gateway_buddy-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/service_gateway_buddy-3.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/service_gateway_buddy-3.2.0/jenkins" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/service_gateway_buddy-3.2.0/.nos" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/service_gateway_buddy-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/service_gateway_buddy-3.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/service_gateway_buddy-3.2.0/jenkins" />
+      </SOURCES>
+    </library>
     <library name="shellany (v0.0.1, rbenv: 2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.8/lib/ruby/gems/2.1.0/gems/shellany-0.0.1/lib" />
